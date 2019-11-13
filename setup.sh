@@ -20,6 +20,7 @@ curl -o https://raw.githubusercontent.com/halfo/lambda-mod-zsh-theme/master/lamb
 
 cd ~
 
+# Install all the packages
 brew install asdf \
   coreutils automake autoconf openssl gpg fzf \
   libyaml readline libxslt libtool unixodbc \
