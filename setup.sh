@@ -34,10 +34,10 @@ source ~/.zshrc
 asdf plugin-add ruby && asdf plugin-add nodejs && asdf plugin-add python
 asdf install ruby 2.6.5 
 bash ~/.asdf/plugins/nodejs/bin/import-release-team-keyring
-asdf install node 10.16.3
+asdf install nodejs 10.16.3
 asdf install python 3.8.0
 asdf global ruby 2.6.5
-asdf global node 10.16.3
+asdf global nodejs 10.16.3
 asdf global python 3.8.0
 
 source ~/.zshrc
