@@ -4,7 +4,7 @@ To use run the following (if you have cURL installed)
 
 ```
 curl --remote-name https://raw.githubusercontent.com/gitguudd/laptop/master/setup.sh
-sh ~/.setup.sh
+sh ~/setup.sh
 ```
 
 This script installs the following packages:
